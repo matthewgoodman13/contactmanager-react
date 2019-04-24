@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/contactmanager-react/static/css/main.36497136.chunk.css",
+    "main.js": "/contactmanager-react/static/js/main.19ee0b56.chunk.js",
+    "main.js.map": "/contactmanager-react/static/js/main.19ee0b56.chunk.js.map",
+    "runtime~main.js": "/contactmanager-react/static/js/runtime~main.28892ad3.js",
+    "runtime~main.js.map": "/contactmanager-react/static/js/runtime~main.28892ad3.js.map",
+    "static/css/2.266e55a5.chunk.css": "/contactmanager-react/static/css/2.266e55a5.chunk.css",
+    "static/js/2.9ca2f09c.chunk.js": "/contactmanager-react/static/js/2.9ca2f09c.chunk.js",
+    "static/js/2.9ca2f09c.chunk.js.map": "/contactmanager-react/static/js/2.9ca2f09c.chunk.js.map",
+    "index.html": "/contactmanager-react/index.html",
+    "precache-manifest.5bdf5d173e7c29638cdc749f68a40533.js": "/contactmanager-react/precache-manifest.5bdf5d173e7c29638cdc749f68a40533.js",
+    "service-worker.js": "/contactmanager-react/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/contactmanager-react/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/contactmanager-react/static/css/main.36497136.chunk.css.map"
+  }
+}
